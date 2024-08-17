@@ -12,9 +12,9 @@ pip install img2pdf
 ```
 
 ## How to Set Up
-- main_dir should be the path to your main project directory.
-- file_dir should point to the folder containing your images.
-- output_file is the path where the generated PDF will be saved. Ensure this path points to a valid directory and that you have write permissions.
+- 'main_dir' should be the path to your main project directory.
+- 'file_dir' should point to the folder containing your images.
+- 'output_file' is the path where the generated PDF will be saved. Ensure this path points to a valid directory and that you have write permissions.
 
 ## Running Script
 ```
